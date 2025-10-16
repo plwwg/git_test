@@ -37,6 +37,8 @@
 #define NUM_PHILOSOPHERS 5
 #define NUM_MEALS 3
 
+printf("Hello");
+
 // TODO: Declare chopstick mutexes (HANDLE chopsticks[NUM_PHILOSOPHERS])
 HANDLE chopsticksMutex[NUM_PHILOSOPHERS];
 
